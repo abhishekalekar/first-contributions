@@ -15,6 +15,7 @@
 - [Vaibhav](https://github.com/vaibhav60)
 - [Shanedolin](https://github.com/Shanedolin)
 - [Mohamednuuh] (https://github.com/mohamednuuh)
+- [Leonid Kozak] (https://github.com/SkimFelBon)
 - [Shahbaz Ali] (https://github.com/shazyriver)
 - [Alexis Huerta](https://github.com/alehuer07)
 - [Justin Kim](https://github.com/naznsan)
@@ -97,6 +98,7 @@
 - [Matt Palmer] ( https://github.com/mattppal )
 - [Michaela Greiler](https://github.com/mgreiler)
 - Stefan
+- Mike
 - [Harun Mwangi](https://github.com/HarunJr)
 - Mihri Ceren
 - [Jon Crowell](https://github.com/jonrcrowell)
@@ -271,6 +273,7 @@ Haris Siddiqui
 - Hamzah Malik
 - Richard Fleming
 - [Pierre-Jean Morel](https://github.com/pjdevs)
+- [Md Sohail] (https://github.com/talk2sohail)
 - Sahil Desai (https://github.com/SDesai71)
 - Sam DC
 - Aditya Mohan
@@ -431,6 +434,7 @@ Haris Siddiqui
 - [Abdullah A Malik](https://github.com/aabi01)
 - [Jordan Bertasso](https://github.com/jordanbertasso)
 - [Dan Satchy](https://github.com/dansatchy)
+- Deric Siu
 - [Tamarind Stafford](https://github.com/oshadowah)
 - [Almarose Revives](https://github.com/arevives/first-contributions.git)
 - [Aditya Nalge](https://github.com/adityanalge)
@@ -1879,6 +1883,7 @@ Stephan Sharpe
 - [Redwan Ahmed Rizvee](https://github.com/rizveeerprojects)
 - [phon sokpheaktra](https://github.com/phonsokpheaktra)
 - [Vitor Martins](https://github.com/vitor-amartins)
+- Daster cal bat
 - James Krueger aka Lauwnch
 - AM
 - Trevor Roy
@@ -3000,6 +3005,7 @@ Stephan Sharpe
 - [Souman Paul](https://github.com/SoumanPaul)
 - Mohamed Ahmed
 - [Aswin Nair](https://github.com/aswintorch)
+- [Ian Rutherford](https://github.com/ianrutherford)
 - [Shane Bailey](https://github.com/dshaneb)
 - [Anastas Radosavljevic](https://github.com/anastasrado)
 - [Hamed Diakite](https://github.com/hdkid7/)
@@ -4508,6 +4514,7 @@ Stephan Sharpe
 - [Parinya Onsuwan](https://github.com/parinz1234)
 - [Maka Paka Perfect Hacker](https://github.com/makapaka)
 - [Anurag Kumar](https://github.com/kgloc)
+- [John]
 - [Aleksandr Lutkov](https://github.com/User0856)
 - [darthHunterous](https://github.com/darthHunterous)
 - [Matt Keeneth](https://github.com/mkeeneth)
@@ -15826,6 +15833,7 @@ Mário Baltazar
 - [Simon Larsen](https://github.com/DeterjoSimon)
 - [Kagawa23](https://github.com/kagawa23)
 - [mscorzoni]
+- [samhauer](https://github.com/samhauer)
 - [Boomly](https://github.com/Boomly)
 - [tjalsdud](https://github.com/tjalsdud89)
 - [NatanStec](https://github.com/NatanStec)
